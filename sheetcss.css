@@ -1,0 +1,49 @@
+* {
+    background-color: rgb(255, 255, 255);
+}
+
+.facebook {
+    float: left;
+    margin: 120px;
+}
+
+.facebook img {
+    width: 70%;
+    height: 50%;
+}
+
+.registration {
+    float: right;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+
+}
+
+.clear {
+    clear: both;
+}
+
+.inputs {
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+}
+
+.inputs input {
+    background-color: white;
+    padding: 10px;
+    padding-right: 70px;
+}
+
+.form {
+    background-color: white;
+    color: black;
+    width: 350px;
+    height: 300px;
+    border: 2px;
+    border-radius: 10px;
+    border-style: ridge;
+    padding: 30px;
+}
