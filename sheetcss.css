@@ -1,0 +1,33 @@
+span {
+    font-size: xx-large;
+    color: black;
+    font-weight: bold;
+}
+
+.contact {
+    margin-left: 50px;
+    color: gray;
+    font-size: large;
+    float: left;
+}
+
+.img {
+    float: right;
+    margin-right: 200px;
+}
+
+.clear {
+    clear: both;
+}
+
+.titles {
+    font-size: larger;
+    color: green;
+    font-weight: bold;
+}
+
+.text {
+    font-size: x-large;
+    margin-left: 100px;
+    margin-top: 0px;
+}
